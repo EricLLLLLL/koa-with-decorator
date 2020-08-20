@@ -15,7 +15,7 @@
     "@babel/polyfill": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/register": "^7.4.4",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "ejs": "^2.5.7",
     "glob": "^7.1.2",
     "koa": "^2.4.1",
